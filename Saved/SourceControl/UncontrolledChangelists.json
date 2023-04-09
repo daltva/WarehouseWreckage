@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GameDev/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/GameDev/WarehouseWreckage/Content/UnrealCourse51/Advanced_Lighting_2.umap",
+				"C:/GameDev/WarehouseWreckage/Content/UnrealCourse51/Minimal_Default_2.umap",
+				"C:/GameDev/WarehouseWreckage/Content/UnrealCourse51/StarterMap_2.umap",
+				"C:/GameDev/WarehouseWreckage/Content/UnrealCourse51/StarterMap_BuiltData_2.uasset",
+				"C:/GameDev/WarehouseWreckage/Content/UnrealCourse51/Minimal_Default_BuiltData_2.uasset",
+				"C:/GameDev/WarehouseWreckage/Content/UnrealCourse51/Advanced_Lighting_BuiltData_2.uasset",
+				"C:/GameDev/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
